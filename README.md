@@ -3,6 +3,4 @@
 
 ## Summary about Repositories
 - Repositories store code
-- Repos can be updated from your local machine using git
-- A "commit" is the action of syncing your local code to the repositorie's code
-- You can create a fork of a repo to make changes, then, request them to be merged into the main branch
+- Repos can be updated using git
